@@ -123,4 +123,4 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 # note
 
-Maintain internet while running the project
+Maintain proper  internet connection while running the project
